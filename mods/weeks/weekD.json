@@ -1,0 +1,41 @@
+{
+	"storyName": "Drake",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "Drake",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Zephyr",
+			"Drake",
+			[
+				255,
+				193,
+				0
+			]
+		],
+		[
+			"Brawl",
+			"dad",
+			[
+				155,
+				193,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week D",
+	"hiddenUntilUnlocked": false
+}

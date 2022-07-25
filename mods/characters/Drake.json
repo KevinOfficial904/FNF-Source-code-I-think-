@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "drake idle"
+		},
+		{
+			"offsets": [
+				40,
+				247
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "drake left"
+		},
+		{
+			"offsets": [
+				10,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "drake right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				271
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "drake up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				13,
+				183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "drake down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Drake",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "Drake",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		77,
+		228
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
